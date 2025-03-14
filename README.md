@@ -106,7 +106,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JCardonaDev&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCardonaDev&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="JCardonaDev's GitHub Stats" />
 
 </td>
 </tr>
