@@ -15,23 +15,32 @@
 <tr border="none">
 <td width="50%" align="left">
 
-💻 **Aspiring Junior Developer** with a passion for learning and building innovative web solutions.  
-🔭 **Experience working with**:  
-- **Languages**: Java, JavaScript, HTML, Python, CSS  
-- **Tools**: Git for version control and collaboration.  
+## 🌟 Jonathan Cardona – Junior Software Developer & Mechanical Designer
 
-🌱 **Currently exploring**:  
-- Building interactive and dynamic web applications.  
-- Strengthening skills with modern frameworks like Vue.js and learning TypeScript.  
+👨‍💻 Passionate about software development, mechanical design, and process optimization. Experienced in programming, web design, and technical maintenance with a results-oriented approach.
 
-💡 **Goals**:  
-- Contribute to open-source projects to gain practical experience.  
-- Collaborate with teams that value creativity and teamwork in web development.  
+### 🔧 **Technical Skills**
+- **Programming:** Python, Java, JavaScript, C++, MySQL.
+- **Web Technologies:** HTML, CSS, React.
+- **Version Control:** Git/GitHub.
+- **Mechanical Design:** SolidWorks.
+- **Maintenance:** SAP PM, hardware/software diagnostics.
 
-⚙️ **Technical Highlights**:  
-- Frontend Development: Crafting clean, user-friendly interfaces.  
-- Problem-solving: Tackling technical challenges effectively.  
-- Team Collaboration: Skilled in Git and learning agile methodologies.  
+### 🎯 **Currently Exploring**
+- Expanding knowledge in modern frameworks and application optimization.
+- Collaborating on innovative projects blending design and technology.
+
+### 🚀 **Professional Goals**
+- Learn new technologies and languages to stay at the cutting edge of development.
+- Contribute to projects that improve processes and generate impactful results.
+
+### ✨ **Outside of Work**
+- Playing basketball, cycling, and enjoying outdoor activities.
+- Listening to music and discovering new genres.
+- Traveling and exploring new cultures.
+- Designing and creating 3D pieces.
+
+📬 **Open to new connections and opportunities!**
 
 </td>
 <td width="50%" align="center">
@@ -43,56 +52,73 @@
 ## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Languages and Tools
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript"
-        width="40"
-        height="40"
-    />
-</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="html5"
-        width="40"
-        height="40"
-    />
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        alt="css3"
-        width="40"
-        height="40"
-    />
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-        alt="python"
-        width="40"
-        height="40"
-    />
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-        alt="git"
-        width="40"
-        height="40"
-    />
-</a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-        alt="java"
-        width="40"
-        height="40"
-    />
-</a>
-
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="javascript"
+            width="40"
+            height="40"
+        />
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            alt="html5"
+            width="40"
+            height="40"
+        />
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            alt="css3"
+            width="40"
+            height="40"
+        />
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+            alt="python"
+            width="40"
+            height="40"
+        />
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+            alt="git"
+            width="40"
+            height="40"
+        />
+    </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+            alt="java"
+            width="40"
+            height="40"
+        />
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+            alt="react"
+            width="40"
+            height="40"
+        />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+            alt="mysql"
+            width="40"
+            height="40"
+        />
+    </a>
 </p>
+
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> My Statistics
 
@@ -100,13 +126,12 @@
 <tr border="none">
 <td width="50%" align="center">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JCardonaDev&theme=chartreuse-dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jonathan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JCardonaDev&theme=chartreuse-dark&hide_border=false" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JCardonaDev&theme=chartreuse-dark&show_icons=true&count_private=true" alt="Jonathan's GitHub Stats" />
+
 </td>
 <td width="50%" align="center">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCardonaDev&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="JCardonaDev's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCardonaDev&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Jonathan's Top Languages" />
 
 </td>
 </tr>
